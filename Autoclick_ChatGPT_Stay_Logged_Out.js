@@ -3,8 +3,8 @@
 // @name:zh-TW   自動點擊 ChatGPT 保持登出狀態
 // @name:zh-CN   自动点击 ChatGPT 保持登出状态
 // @name:ja      ChatGPT自動ログアウト維持
-// @namespace    https://github.com/April-15
-// @version      0.1.0
+// @namespace    https://github.com/April-15/tampermonkey-scripts/blob/main/Autoclick_ChatGPT_Stay_Logged_Out.js
+// @version      0.1.1
 // @description  This script automatically clicks "Stay Logged Out" when ChatGPT login tips appear, skipping the tip.
 // @description:ja  ChatGPTのログインヒントが表示された際に「ログアウト状態を維持」を自動でクリックし、ヒントをスキップするスクリプトです。
 // @description:zh-TW  當出現 ChatGPT 登入提示時，此腳本會自動點擊“保持登出狀態”，跳過提示。
